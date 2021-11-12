@@ -7,8 +7,8 @@ pool:
 stages:
 - stage: A
   jobs:
-  - job:AA
+  - job: AA
 
 - stage: B
   jobs:
-   - job:BB  
+   - job: BB  

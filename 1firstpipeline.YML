@@ -17,7 +17,7 @@ stages:
 - stage: A
   jobs:
   - job:AA
-  
+
 - stage: B
-   jobs:
+  jobs:
    - job:BB  
